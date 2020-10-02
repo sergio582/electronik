@@ -1,0 +1,13 @@
+.appareil-eteint{
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+  border-radius: 20px;
+}
+
+.appareil-allumer{
+  width: 20px;
+  height: 20px;
+  background-color: forestgreen;
+  border-radius: 20px;
+}
